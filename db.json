@@ -8,7 +8,17 @@
       "genre": "Short story",
       "publisher": "Butterworth-Heinemann",
       "year": "1968",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Ring_of_Bright_Water_first_edition_cover.jpg"
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Ring_of_Bright_Water_first_edition_cover.jpg",
+      "comments": [
+        {
+          "username": "John Blue",
+          "comment": "Interesting story, disjointed in places. Reminds me why I think wild animals should be left wild."
+        },
+        {
+          "username": "Lia",
+          "comment": "Gavin Maxwell is one of my absolute favourite writers. You can smell the sea and see the landscape of the Scottish islands in every beautifully turned phrase. So glad it is now in Kindle."
+        }
+      ]
     },
     {
       "id": 2,
@@ -17,7 +27,21 @@
       "genre": "other",
       "publisher": "Pocket Books",
       "year": "1989",
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/816UE5yWf3L.jpg"
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/816UE5yWf3L.jpg",
+      "comments": [
+        {
+          "username": "Carolina Leocadio",
+          "comment": "Não devia ter lido essa amostra. Só me deixou mais ansiosa pro lançamento do livro."
+        },
+        {
+          "username": "Violet Crumbles",
+          "comment": "It borders so closely to being exquisite. There were times I felt like I was reading from “Circe”, but it would slip and be overly long, clumsy or distracted. The ending was a kind of disappointment... It has so many things to feel and discuss (not all good, not all bad). I would say more, but “no spoilers”. 🤷🏻‍♀️ I do recommend the book. The author writes really well, and the story is enjoyable and intriguing."
+        },
+        {
+          "username": "Angelique Dunn",
+          "comment": "What does it mean to truly live? Is a life really a life if you have no family, no real friends, no roots? And who would you be, if there were no consequences? Would you learn to love the dark, the fearsome, the shadow, the decay?"
+        }
+      ]
     },
     {
       "id": 3,
@@ -44,7 +68,17 @@
       "genre": "suspense",
       "publisher": "Pocket Books",
       "year": "1989",
-      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/6963511-M.jpg"
+      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/6963511-M.jpg",
+      "comments": [
+        {
+          "username": "Joyce Duhaine",
+          "comment": "My mom, Joyce Duhaine, passed away here at my home after being in hospice for 18 months, and she was halfway through with ‘this book. An avid, and critical, reader, she was enjoying this much more than the one she had finished before it."
+        },
+        {
+          "username": "Stacey",
+          "comment": "So excited to re-read this book! I’m sad they didn’t have any copies with the other “older” covers but they content inside is all the same. Super glad the shipping was fast!"
+        }
+      ]
     },
     {
       "id": 6,
@@ -62,7 +96,17 @@
       "genre": "suspense",
       "publisher": "Scribner",
       "year": "2014",
-      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/content.jpeg"
+      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/content.jpeg",
+      "comments": [
+        {
+          "username": "Candy Evans",
+          "comment": "It's been 10 years since I last read this and every bit as captivating as the first time. It was like reading the book for the first time because I didn't remember much from the first time reading it. Since I read this book I have made it a point to read other Lois Duncan books. I am never disappointed!"
+        },
+        {
+          "username": "Jill Shure",
+          "comment": "Lois Duncan has an engrossing imagination! Enjoy."
+        }
+      ]
     },
     {
       "id": 8,
@@ -80,7 +124,17 @@
       "genre": "fiction",
       "publisher": "Crown Publishing Group",
       "year": "2011",
-      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/41DNuJfahyL._SX322_BO1_204_203_200_.jpg"
+      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/41DNuJfahyL._SX322_BO1_204_203_200_.jpg",
+      "comments": [
+        {
+          "username": "Keith Moser",
+          "comment": "For some reason I thought the Matt Damon movie was coming out next year, but as soon as I heard it was THIS October, this rocketed to the top of my To Read pile (get it?)."
+        },
+        {
+          "username": "Iset",
+          "comment": "Having just come off the back of watching the film, I’ve done what everyone else has no doubt been doing, and read the book. Is it entertaining? Yes. Is it funny? Yes. Is it amazing writing? Well… no."
+        }
+      ]
     }
   ]
 }
